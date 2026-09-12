@@ -1,4 +1,4 @@
-# PRX Fig. 6 — simulation & analysis pipeline
+# Tension Remodeling Vertex Model
 
 Vertex-model tissue simulation under tension remodeling (`MainFile.py`), plus two analysis/figure scripts
 (`FigureDelayedEvents.py`, `LastSnapshot.py`), to reproduce panels as in "Pérez-Verdugo, F., & Banerjee, S. (2023). Tension remodeling regulates topological transitions in epithelial tissues. PRX life, 1(2), 023006.", Fig. 6 (b) and (c).
